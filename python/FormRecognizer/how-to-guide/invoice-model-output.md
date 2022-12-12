@@ -1,63 +1,63 @@
 --------Recognizing invoice #1--------
 
-Vendor Name: CONTOSO LTD. has confidence: 0.926
+Nazwa dostawcy / Nazwa producenta / Nazwa sprzedawcy: CONTOSO LTD. has confidence: 0.926
 
-Vendor Address: AddressValue(house_number=123, po_box=None, road=456th St, city=New York, state=NY, postal_code=10001, country_region=None, street_address=123 456th St) has confidence: 0.907
+Adres dostawcy / Adres producenta / Adres sprzedawcy: AddressValue(house_number=123, po_box=None, road=456th St, city=New York, state=NY, postal_code=10001, country_region=None, street_address=123 456th St) has confidence: 0.907
 
-Vendor Address Recipient: Contoso Headquarters has confidence: 0.926
+Dostawca / Sprzedawca / Producent: Contoso Headquarters has confidence: 0.926
 
-Customer Name: MICROSOFT CORPORATION has confidence: 0.916
+Nazwa klienta / Nazwa kupującego / Nazwa nabywcy: MICROSOFT CORPORATION has confidence: 0.916
 
-Customer Id: CID-12345 has confidence: 0.966
+Numer klienta / Numer kupującego / Numer nabywcy: CID-12345 has confidence: 0.966
 
-Customer Address: AddressValue(house_number=123, po_box=None, road=Other St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Other St) has confidence: 0.908
+Adres klienta / Adres kupującego / Adres nabywcy: AddressValue(house_number=123, po_box=None, road=Other St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Other St) has confidence: 0.908
 
-Customer Address Recipient: Microsoft Corp has confidence: 0.926
+Odbiorca / Klient / Kupujący: Microsoft Corp has confidence: 0.926
 
-Invoice Id: INV-100 has confidence: 0.978
+Numer faktury / Numer dokumentu: INV-100 has confidence: 0.978
 
-Invoice Date: 2019-11-15 has confidence: 0.978
+Data faktury / Data wystawienia faktury / Data dokumentu / Data wystawienia dokumentu: 2019-11-15 has confidence: 0.978
 
-Invoice Total: $110.0 has confidence: 0.968
+Suma faktury / Suma dokumentu: $110.0 has confidence: 0.968
 
-Due Date: 2019-12-15 has confidence: 0.976
+Termin płatności: 2019-12-15 has confidence: 0.976
 
-Purchase Order: PO-3333 has confidence: 0.97
+Zamówienie / Numer zamówienia: PO-3333 has confidence: 0.97
 
-Billing Address: AddressValue(house_number=123, po_box=None, road=Bill St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Bill St) has confidence: 0.908
+Adres rozliczeniowy: AddressValue(house_number=123, po_box=None, road=Bill St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Bill St) has confidence: 0.908
 
-Billing Address Recipient: Microsoft Finance has confidence: 0.926
+Płatnik: Microsoft Finance has confidence: 0.926
 
-Shipping Address: AddressValue(house_number=123, po_box=None, road=Ship St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Ship St) has confidence: 0.907
+Adres dostawy: AddressValue(house_number=123, po_box=None, road=Ship St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Ship St) has confidence: 0.907
 
-Shipping Address Recipient: Microsoft Delivery has confidence: 0.926
+Odbiorca: Microsoft Delivery has confidence: 0.926
 
-Invoice items:
+Pozycje faktury:
 
-...Item #1
+...Produkt / Pozycja #1
 
-......Description: Test for 23 fields has confidence: 0.954
+......Opis: Test for 23 fields has confidence: 0.954
 
-......Quantity: 1.0 has confidence: 0.975
+......Ilość: 1.0 has confidence: 0.975
 
-......Unit Price: 1.0 has confidence: 0.964
+......Cena jednostkowa: 1.0 has confidence: 0.964
 
-......Amount: $100.0 has confidence: 0.976
+......Kwota / Suma: $100.0 has confidence: 0.976
 
-Subtotal: $100.0 has confidence: 0.977
+Suma częściowa: $100.0 has confidence: 0.977
 
-Total Tax: $10.0 has confidence: 0.975
+Podatek / Suma podatku: $10.0 has confidence: 0.975
 
-Previous Unpaid Balance: $500.0 has confidence: 0.961
+Bilans / Saldo: $500.0 has confidence: 0.961
 
-Amount Due: $610.0 has confidence: 0.682
+Do zapłaty / Kwota do zapłaty / Należność: $610.0 has confidence: 0.682
 
-Service Address: AddressValue(house_number=123, po_box=None, road=Service St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Service St) has confidence: 0.908
+Adres wykonania usługi: AddressValue(house_number=123, po_box=None, road=Service St, city=Redmond, state=WA, postal_code=98052, country_region=None, street_address=123 Service St) has confidence: 0.908
 
-Service Address Recipient: Microsoft Services has confidence: 0.926
+Odbiorca usługi: Microsoft Services has confidence: 0.926
 
-Remittance Address: AddressValue(house_number=123, po_box=None, road=Remit St, city=New York, state=NY, postal_code=10001, country_region=None, street_address=123 Remit St) has confidence: 0.907
+Adres przekazu / Adres przelewu / Adres płatności: AddressValue(house_number=123, po_box=None, road=Remit St, city=New York, state=NY, postal_code=10001, country_region=None, street_address=123 Remit St) has confidence: 0.907
 
-Remittance Address Recipient: Contoso Billing has confidence: 0.926
+Odbiorca płatności: Contoso Billing has confidence: 0.926
 
 ---
